@@ -1,0 +1,5 @@
+/Users/schacko/app-starters-spike/spring-cloud-stream-app-starters-core/app-starters-common/app-starters-trigger-common/src/main/java/org/springframework/cloud/stream/app/trigger/SourcePayloadProperties.java
+/Users/schacko/app-starters-spike/spring-cloud-stream-app-starters-core/app-starters-common/app-starters-trigger-common/src/main/java/org/springframework/cloud/stream/app/trigger/DateTrigger.java
+/Users/schacko/app-starters-spike/spring-cloud-stream-app-starters-core/app-starters-common/app-starters-trigger-common/src/main/java/org/springframework/cloud/stream/app/trigger/TriggerConfiguration.java
+/Users/schacko/app-starters-spike/spring-cloud-stream-app-starters-core/app-starters-common/app-starters-trigger-common/src/main/java/org/springframework/cloud/stream/app/trigger/TriggerProperties.java
+/Users/schacko/app-starters-spike/spring-cloud-stream-app-starters-core/app-starters-common/app-starters-trigger-common/src/main/java/org/springframework/cloud/stream/app/trigger/TriggerConstants.java

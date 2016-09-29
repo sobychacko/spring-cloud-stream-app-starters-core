@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="app-starters-annotation-common" />
+        <module name="app-starters-time-common" />
+        <module name="app-starters-trigger-common" />
+        <module name="app-starters-trigger-one-common" />
+        <module name="spring-cloud-stream-app-descriptor" />
+        <module name="spring-cloud-stream-app-documentation-maven-plugin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app-starters-annotation-common" target="1.7" />
+      <module name="app-starters-common" target="1.7" />
+      <module name="app-starters-time-common" target="1.7" />
+      <module name="app-starters-trigger-common" target="1.7" />
+      <module name="app-starters-trigger-one-common" target="1.7" />
+      <module name="spring-cloud-stream-app-core-dependencies" target="1.5" />
+      <module name="spring-cloud-stream-app-descriptor" target="1.7" />
+      <module name="spring-cloud-stream-app-documentation-maven-plugin" target="1.7" />
+      <module name="spring-cloud-stream-app-starters-docs" target="1.7" />
+      <module name="spring-cloud-stream-app-starters-parent" target="1.7" />
+      <module name="starter-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
