@@ -1,8 +1,0 @@
-org/springframework/cloud/stream/app/trigger/TriggerConfiguration$PeriodicTriggerCondition$dateTrigger.class
-org/springframework/cloud/stream/app/trigger/TriggerConfiguration.class
-org/springframework/cloud/stream/app/trigger/SourcePayloadProperties.class
-org/springframework/cloud/stream/app/trigger/DateTrigger.class
-org/springframework/cloud/stream/app/trigger/TriggerConfiguration$PeriodicTriggerCondition$cronTrigger.class
-org/springframework/cloud/stream/app/trigger/TriggerConstants.class
-org/springframework/cloud/stream/app/trigger/TriggerConfiguration$PeriodicTriggerCondition.class
-org/springframework/cloud/stream/app/trigger/TriggerProperties.class
